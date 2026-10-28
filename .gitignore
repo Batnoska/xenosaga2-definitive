@@ -1,0 +1,7 @@
+# Datos sacados del juego y archivos de trabajo: nunca al repositorio
+work/
+*.iso
+__pycache__/
+
+# Notas de trabajo que quedan solo en esta PC
+docs/investigacion.md
